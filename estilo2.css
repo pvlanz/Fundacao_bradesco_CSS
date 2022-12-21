@@ -1,0 +1,23 @@
+/* CSS Document */
+
+body {
+	background-color:tan;
+}
+
+h1 {
+	color: maroon;
+}
+
+hr {
+	color:navy;
+}
+
+p {
+	margin-left:20px;
+	font-size:16px;
+}
+
+a:link {color:green;}
+a:visited {color:yellow;}
+a:hover {color:black;}
+a:active {color:blue;}
